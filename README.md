@@ -1,10 +1,10 @@
-# About Me
+# ABOUT ME
 
 - 👋 Hi, I’m @Sekwanaa
 - 👀 I’m a full-stack web developer specializing in Javascript
 - 🌱 I’m currently learning React through a Meta certification course. 
 
-# Projects
+# PROJECTS
 ## Sports Bracket Generator 
 
 This project accomplishes the goal of being able to create tournaments and tourneys within each tournament.
@@ -26,6 +26,17 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 
 </details>
 
+# CERTIFICATES
+### Google IT Automation with Python Specialization
+
+>***Coursera --- Issued September 2022***
+Online certificate issued by Coursera building skills using Git, Github, and Python
+
+### Google IT Support Certificate
+>***Coursera --- Issued November 2021***
+Online certificate issued by Coursera building foundational skills including
+troubleshooting and customer service, networking, operating systems, system
+administration, and security.
 
 <!---
 Jiggly-sensation/Jiggly-sensation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
