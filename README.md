@@ -21,8 +21,9 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 ![Screenshot (3)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/5628b988-dd1c-4222-b24d-f5f640d66f7e)
 
 ### Each tournament is dynamically created with the tournament name and any selected sports
-![Screenshot (4)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/2dd96225-c7e6-44a5-8e10-2041ee695021)
-![Screenshot (7)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/498b8b3e-4148-4148-8593-8abdfc636778)
+![Screenshot (4)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/ebf5bf0e-e924-4529-8d09-ef73955aebf7)
+![Screenshot (8)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/135cfbd7-975e-4fd0-93c8-d65f7e2bbae3)
+
 </details>
 
 
