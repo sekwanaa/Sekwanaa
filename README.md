@@ -5,14 +5,14 @@
 - 🌱 I’m currently learning React through a Meta certification course.
 
 # PROJECTS
-## Sports Bracket Generator 
+## Sports Bracket Generator Website
 
 This project accomplishes the goal of being able to create tournaments and tourneys within each tournament.
 To create the layout and frontend portion of the website, we utilized HTML, CSS, Javascript, and a templating library called Handlebars.
 For the backend portion of the website we utilized MongoDB, Express.js, and Node.js.
 
 <details>
-<summary>Preview of Website</summary>
+<summary>View Website</summary>
 	
 ### Preview of the landing page
 ![Screenshot (1)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/9b2fd0d3-cbdc-41de-a0b0-4b0bfefe4e2a)
@@ -40,6 +40,17 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 ![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/cf867f17-dbb1-4c5f-8bc3-1b48359bf562)
 
 </details>
+
+## Discord Bot - EizoukenBot
+A simple bot with moderation commands, which can additionally log discord messages, voice events, and/or guild events.\
+There are also additional miscellaneous commands for fun such as:
+ - playing rock, paper, scissors
+ - rolling dice
+ - flipping a coin
+ - picking a random hexcolor
+ - and many more!
+
+This bot is set up to be able to support multiple guilds if needed. 
 
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
