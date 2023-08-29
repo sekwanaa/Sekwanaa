@@ -41,6 +41,7 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 ![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/cf867f17-dbb1-4c5f-8bc3-1b48359bf562)
 
 </details>
+\* As of right now, there is a new website design being created. 
 
 ## Discord Bot - EizoukenBot
 A simple bot with moderation commands, which can additionally log discord messages, voice events, and/or guild events.\
