@@ -24,6 +24,21 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 ![Screenshot (4)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/ebf5bf0e-e924-4529-8d09-ef73955aebf7)
 ![Screenshot (8)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/135cfbd7-975e-4fd0-93c8-d65f7e2bbae3)
 
+### - Current Bracket
+![currentBracket](https://github.com/sekwanaa/Sekwanaa/assets/112197395/6c75028b-4657-462d-983f-aae501a291c2)
+
+### - Current Games
+![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/bbdb9028-fb03-4e52-a357-002ca1994447)
+
+### - Current Seeds
+![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/4bae5bd9-392b-42a6-a0c3-011530dc1ff2)
+
+### - Current Teams
+![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/d5d2ddd0-9260-4905-a0d2-c7b0ea21441b)
+
+### - Round Robin
+![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/cf867f17-dbb1-4c5f-8bc3-1b48359bf562)
+
 </details>
 
 # CERTIFICATES
