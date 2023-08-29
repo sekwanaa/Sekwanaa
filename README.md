@@ -2,7 +2,14 @@
 
 - 👋 Hi, I’m @Sekwanaa
 - 👀 I’m a full-stack web developer specializing in Javascript
-- 🌱 I’m currently learning React through a Meta certification course. 
+- 🌱 I’m currently learning React through a Meta certification course.
+
+# WORK EXPERIENCE
+### Freelance Web Developer - Mercredi Studio
+- Helped redesign and rework Wordpress website to appeal more to the user
+experience and create a dynamic environment.
+- Create a responsive version of the website to be able to be viewed on devices of any screen size
+- Closely work with the company to help deliver the website accurately
 
 # PROJECTS
 ## Sports Bracket Generator 
