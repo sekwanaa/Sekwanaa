@@ -56,6 +56,10 @@ This bot is set up to be able to support multiple guilds if needed.
 
 [View project on GitHub](https://github.com/sekwanaa/EizoukenBot-V.2)
 
+## Python Instagram Bot - Follow and Unfollow
+A simple bot that scrapes instagram using Selenium and Python with user specified hashtags. Combs through each post within the hashtag up to a specified amount, then likes photos and follows users to create engagement for the user. Can be modified to add comments if the user so wishes.\
+Additionally, the bot can unfollow users up to a certain amount.
+
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
 
