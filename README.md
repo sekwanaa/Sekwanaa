@@ -63,6 +63,8 @@ Additionally, the bot can unfollow users up to a certain amount.
 ## React Native Mobile App - AllParks 
 A simple app whose goal is to provide users with a list of national or provincial parks within North America. It aims to aesthetically present popular parks around the user and also allows users to save parks that they would like to visit in the future. There will also be a map of parks that users can search through. 
 
+[View project on GitHub](https://github.com/sekwanaa/AllParks)
+
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
 
