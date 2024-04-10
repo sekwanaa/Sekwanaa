@@ -60,11 +60,6 @@ This bot is set up to be able to support multiple guilds if needed.
 A simple bot that scrapes instagram using Selenium and Python with user specified hashtags. Combs through each post within the hashtag up to a specified amount, then likes photos and follows users to create engagement for the user. Can be modified to add comments if the user so wishes.\
 Additionally, the bot can unfollow users up to a certain amount.
 
-## React Native Mobile App - AllParks 
-A simple app whose goal is to provide users with a list of national or provincial parks within North America. It aims to aesthetically present popular parks around the user and also allows users to save parks that they would like to visit in the future. There will also be a map of parks that users can search through. 
-
-[View project on GitHub](https://github.com/sekwanaa/AllParks)
-
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
 
