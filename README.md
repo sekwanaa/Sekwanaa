@@ -60,12 +60,12 @@ This bot is set up to be able to support multiple guilds if needed.
 A Java CLI application which aims to allow the user to add debits and credits to a ledger and keep track of entries. \
 The user can also view entries based on certain filters, MTD, previous month, YTD, previous year, or search by vendor.
 
-[View project on GitHub](https://github.com/sekwanaa/AccountingLedgerApplication)
+[View project on GitHub](https://github.com/sekwanaa/Accounting-Ledger-Application)
 
 ## Sekwanaa's Deli CLI Application
 A Java CLI application which emulates an ordering kiosk at a local deli! The user has the ability to add sandwiches, drinks, and chips to an order and receive a receipt. 
 
-[View project on GitHub](https://github.com/sekwanaa/Deli-App)
+[View project on GitHub](https://github.com/sekwanaa/Sekwanaas-Deli)
 
 ## Python Instagram Bot - Follow and Unfollow
 A simple bot that scrapes instagram using Selenium and Python with user specified hashtags. Combs through each post within the hashtag up to a specified amount, then likes photos and follows users to create engagement for the user. Can be modified to add comments if the user so wishes.\
