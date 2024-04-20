@@ -5,15 +5,16 @@
 - 🌱 I’m currently learning Java through Year Up.
 
 # PROJECTS
-## Sports Bracket Generator Website
+
+<details>
+	
+**<summary>Sports Tournament Generator Website</summary>**
 
 This project accomplishes the goal of being able to create tournaments and tourneys within each tournament.
 To create the layout and frontend portion of the website, we utilized HTML, CSS, Javascript, and a templating library called Handlebars.
 For the backend portion of the website we utilized MongoDB, Express.js, and Node.js.
 
-[View project on GitHub](https://github.com/sekwanaa/sportsfest_bracket)
-<details>
-<summary>View Website</summary>
+[Check out the full project!](https://github.com/sekwanaa/sportsfest_bracket)
 	
 ### Preview of the landing page
 ![Screenshot (1)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/9b2fd0d3-cbdc-41de-a0b0-4b0bfefe4e2a)
@@ -40,10 +41,14 @@ For the backend portion of the website we utilized MongoDB, Express.js, and Node
 ### - Round Robin
 ![image](https://github.com/sekwanaa/Sekwanaa/assets/112197395/cf867f17-dbb1-4c5f-8bc3-1b48359bf562)
 
-</details>
-\* As of right now, there is a new website design being created. 
+\* As of right now, there is a new website design being created.
 
-## Discord Bot - EizoukenBot
+</details>
+
+<details>
+	
+**<summary>Discord Bot - EizoukenBot</summary>**
+
 A simple bot with moderation commands, which can additionally log discord messages, voice events, and/or guild events.\
 There are also additional miscellaneous commands for fun such as:
  - playing rock, paper, scissors
@@ -54,22 +59,40 @@ There are also additional miscellaneous commands for fun such as:
 
 This bot is set up to be able to support multiple guilds if needed. 
 
-[View project on GitHub](https://github.com/sekwanaa/EizoukenBot-V.2)
+[Check out the full code here!](https://github.com/sekwanaa/EizoukenBot-V.2)
 
-## Accounting Ledger CLI Application
+</details>
+
+<details>
+
+**<summary>Accounting Ledger Application</summary>**
+
 A Java CLI application which aims to allow the user to add debits and credits to a ledger and keep track of entries. \
 The user can also view entries based on certain filters, MTD, previous month, YTD, previous year, or search by vendor.
 
-[View project on GitHub](https://github.com/sekwanaa/Accounting-Ledger-Application)
+[Check out my full project here!](https://github.com/sekwanaa/Accounting-Ledger-Application)
+ 
+</details>
 
-## Sekwanaa's Deli CLI Application
+<details>
+
+**<summary>Deli Ordering Kiosk Application</summary>**
+
 A Java CLI application which emulates an ordering kiosk at a local deli! The user has the ability to add sandwiches, drinks, and chips to an order and receive a receipt. 
 
-[View project on GitHub](https://github.com/sekwanaa/Sekwanaas-Deli)
+[Check out my full project here!](https://github.com/sekwanaa/Sekwanaas-Deli)
+ 
+</details>
 
-## Python Instagram Bot - Follow and Unfollow
+<details>
+
+**<summary>Python Instagram Bot - Follow and Unfollow</summary>**
+
 A simple bot that scrapes instagram using Selenium and Python with user specified hashtags. Combs through each post within the hashtag up to a specified amount, then likes photos and follows users to create engagement for the user. Can be modified to add comments if the user so wishes.\
 Additionally, the bot can unfollow users up to a certain amount.
+ 
+</details>
+
 
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
