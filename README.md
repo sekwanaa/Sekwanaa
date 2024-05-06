@@ -1,77 +1,54 @@
-# ABOUT ME
+<h1 align="center" style="font-size = 20px;">👋 Hi, I’m @Sekwanaa</h1>
 
-- 👋 Hi, I’m @Sekwanaa
-- 👀 I’m a full-stack developer specializing in Java
-- 🌱 I’m currently learning Java through Year Up.
-
-# PROJECTS
-
-<details>
+<div align="center">
 	
-**<summary>Sports Tournament Generator Website</summary>**
+<a href="https://www.linkedin.com/in/chrisskchia/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.codewars.com/users/sekwanaa" target="blank">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href="https://discordapp.com/users/181891769414189056" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://www.instagram.com/sekwanaa/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
-This project accomplishes the goal of being able to create tournaments and tourneys within each tournament.
-To create the layout and frontend portion of the website, we utilized HTML, CSS, Javascript, and a templating library called Handlebars.
-For the backend portion of the website we utilized MongoDB, Express.js, and Node.js.
+</div>
 
-[Check out the full project!](https://github.com/sekwanaa/sportsfest_bracket)
+<div align="left" style="">
 	
-### Preview of the landing page
-![Screenshot (1)](https://github.com/sekwanaa/Sekwanaa/assets/112197395/9b2fd0d3-cbdc-41de-a0b0-4b0bfefe4e2a)
+<img align="left" alt="Coding" width="40" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif">
 
-\* As of right now, there is a new website design being created.
+### Some things about me...
 
-</details>
+</div >
 
-<details>
-	
-**<summary>Discord Bot - EizoukenBot</summary>**
+<div>
 
-A simple bot with moderation commands, which can additionally log discord messages, voice events, and/or guild events.\
-There are also additional miscellaneous commands for fun such as:
- - playing rock, paper, scissors
- - rolling dice
- - flipping a coin
- - picking a random hexcolor
- - and many more!
-
-This bot is set up to be able to support multiple guilds if needed. 
-
-[Check out the full code here!](https://github.com/sekwanaa/EizoukenBot-V.2)
-
-</details>
-
-<details>
-
-**<summary>Accounting Ledger Application</summary>**
-
-A Java CLI application which aims to allow the user to add debits and credits to a ledger and keep track of entries. \
-The user can also view entries based on certain filters, MTD, previous month, YTD, previous year, or search by vendor.
-
-[Check out my full project here!](https://github.com/sekwanaa/Accounting-Ledger-Application)
+``` javascript
+const sekwanaa = {
+	pronouns: "he" | "him",
+	code: [Java, Javascript, HTML, CSS],
+	technologies: {
+		backEnd: {
+		js: ["Node", "Express"],
+		java: ["Spring"]
+		},
+		databases: ["mongoDB", "MySql"]
+	},
+  askMeAbout: ["web dev", "app dev", "photography", "cars"],
+  funFacts: [
+	🌱 I’m currently learning Java through Year Up,
+	🏂 I love snowboarding,
+	🎸 I love me some guitar
+  ]
+}
+```
  
-</details>
-
-<details>
-
-**<summary>Deli Ordering Kiosk Application</summary>**
-
-A Java CLI application which emulates an ordering kiosk at a local deli! The user has the ability to add sandwiches, drinks, and chips to an order and receive a receipt. 
-
-[Check out my full project here!](https://github.com/sekwanaa/Sekwanaas-Deli)
- 
-</details>
-
-<details>
-
-**<summary>Python Instagram Bot - Follow and Unfollow</summary>**
-
-A simple bot that scrapes instagram using Selenium and Python with user specified hashtags. Combs through each post within the hashtag up to a specified amount, then likes photos and follows users to create engagement for the user. Can be modified to add comments if the user so wishes.\
-Additionally, the bot can unfollow users up to a certain amount.
- 
-</details>
+</div>
 
 
+<!--Github Stats-->
+[![Sekwanaa's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=sekwanaa&show_icons=true&hide_rank=true&theme=catppuccin_mocha #gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sekwanaa's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=sekwanaa&show_icons=true&hide_rank=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=sekwanaa&label=GITHUB-VISITORS&style=for-the-badge)
+
+<!---
 # CERTIFICATES
 ### Google IT Automation with Python Specialization
 
@@ -83,6 +60,7 @@ Online certificate issued by Coursera building skills using Git, Github, and Pyt
 Online certificate issued by Coursera building foundational skills including
 troubleshooting and customer service, networking, operating systems, system
 administration, and security.
+--->
 
 <!---
 Jiggly-sensation/Jiggly-sensation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
