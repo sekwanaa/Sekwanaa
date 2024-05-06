@@ -94,7 +94,7 @@ No Activity Tracked This Week
 
 <div>
 
-[![Sekwanaa's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=sekwanaa&show_icons=true&hide_rank=true&theme=catppuccin_mocha #gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sekwanaa's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=sekwanaa&show_icons=true&hide_rank=true&theme=catppuccin_mocha#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Sekwanaa's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=sekwanaa&show_icons=true&hide_rank=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sekwanaa)](https://git.io/streak-stats)
  
