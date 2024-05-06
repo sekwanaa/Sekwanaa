@@ -32,6 +32,79 @@ const sekwanaa = {
 ```
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 230.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 128 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+🌆 Daytime                906 commits         ███████████████░░░░░░░░░░   60.60 % 
+🌃 Evening                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌙 Night                  91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  334 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Wednesday                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Thursday                 301 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Friday                   182 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Saturday                 135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     16 repos            ██████████████░░░░░░░░░░░   57.14 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sekwanaa/sekwanaa/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/05/2024 21:17:49 UTC
 <!--END_SECTION:waka-->
 
 
