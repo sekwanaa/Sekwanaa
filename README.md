@@ -10,14 +10,12 @@
 </div>
 
 <div align="left" style="">
-	
-<img align="left" alt="Coding" width="40" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif">
 
-### Some things about me...
+### <img align="left" alt="Coding" height="25" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif"> &nbsp; Some things about me...
 
 </div >
 
-<div>
+<div align="left">
 
 ``` javascript
 const sekwanaa = {
