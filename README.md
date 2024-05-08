@@ -4,6 +4,7 @@
 	
 <a href="https://www.linkedin.com/in/chrisskchia/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.codewars.com/users/sekwanaa" target="blank">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
+<a href="" target="blank">![Follow me!](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)</a>
 <a href="https://discordapp.com/users/181891769414189056" target="blank">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 <a href="https://www.instagram.com/sekwanaa/" target="blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
