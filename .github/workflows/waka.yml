@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
-          IGNORED_LANGUAGES: GitIgnore file, XML, Text
+          IGNORED_LANGUAGES: "GitIgnore file, XML, Text"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
           SHOW_LOC_CHART: "False"
