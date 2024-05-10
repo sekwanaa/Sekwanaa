@@ -16,10 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          IGNORED_REPOS: "Hotel-Operations, Workship-5-Car-Dealership"
-          IGNORED_LANGUAGES: GITIGNORE YAML JSON
           
           
