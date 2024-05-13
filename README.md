@@ -14,21 +14,21 @@
 
 ``` javascript
 const sekwanaa = {
- pronouns: "he" | "him",
- code: [Java, Javascript, HTML, CSS],
- technologies: {
+	pronouns: "he" | "him",
+	code: [Java, Javascript, HTML, CSS],
+	technologies: {
 		backEnd: {
 		js: ["Node", "Express"],
 		java: ["Spring"]
 		},
 		databases: ["mongoDB", "MySql"]
 	},
- askMeAbout: ["web dev", "app dev", "photography", "cars"],
- funFacts: [
-	 🌱 I’m currently learning Java through Year Up,
-	 🏂 I love snowboarding,
-	 🎸 I love me some guitar
- ]
+ 	askMeAbout: ["web dev", "app dev", "photography", "cars"],
+ 	funFacts: [
+		🌱 I’m currently learning Java through Year Up,
+		🏂 I love snowboarding,
+		🎸 I love me some guitar
+	]
 }
 ```
 
