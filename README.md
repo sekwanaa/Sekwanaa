@@ -35,7 +35,9 @@ const sekwanaa = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 230.2 kB Used in GitHub's Storage 
+> 📦 230.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 177 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +90,7 @@ Windows                  21 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 13/05/2024 00:23:52 UTC
+ Last Updated on 13/05/2024 01:18:59 UTC
 <!--END_SECTION:waka-->
 
 
