@@ -37,8 +37,6 @@ const sekwanaa = {
 
 > 📦 232.9 kB Used in GitHub's Storage 
  > 
-> 🏆 317 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -83,7 +81,7 @@ Windows                  1 hr 27 mins        ███████████�
 ```
 
 
- Last Updated on 06/06/2024 12:28:51 UTC
+ Last Updated on 06/06/2024 18:19:48 UTC
 <!--END_SECTION:waka-->
 
 
