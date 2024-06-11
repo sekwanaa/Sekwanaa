@@ -72,18 +72,17 @@ Sunday                   109 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     3 mins              █████████████████████████   99.94 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Capstones                3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/06/2024 06:21:09 UTC
+ Last Updated on 11/06/2024 12:29:57 UTC
 <!--END_SECTION:waka-->
 
 
