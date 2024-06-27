@@ -23,11 +23,12 @@ const sekwanaa = {
 		},
 		databases: ["mongoDB", "MySql"]
 	},
- 	askMeAbout: ["web dev", "app dev", "photography", "cars"],
+ 	askMeAbout: ["app dev", "web dev", "photography", "cars"],
  	funFacts: [
 		🌱 I’m currently learning Java through Year Up,
 		🏂 I love snowboarding,
-		🎸 I love me some guitar
+		🎸 I love me some guitar,
+		💈  I love being a barber
 	]
 }
 ```
