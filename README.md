@@ -97,7 +97,7 @@ Windows                  1 hr 5 mins         ███████████�
 
 <div align="center">
 	
-![](https://komarev.com/ghpvc/?username=sekwanaa&label=GITHUB-VISITORS&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=sekwanaa&label=GITHUB-VISITORS&style=for-the-badge&abbreviated=true)
 
 <div>
 
