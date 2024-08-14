@@ -39,8 +39,6 @@ const sekwanaa = {
 
 > 📦 243.9 kB Used in GitHub's Storage 
  > 
-> 🏆 390 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -74,21 +72,17 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               20 mins             ████████████████████████░   96.61 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-live-sports-scoreboard   21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/08/2024 06:22:30 UTC
+ Last Updated on 14/08/2024 12:31:15 UTC
 <!--END_SECTION:waka-->
 
 
