@@ -88,12 +88,6 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 
-<div align="center">
-	
-![](https://komarev.com/ghpvc/?username=sekwanaa&label=GITHUB-VISITORS&style=for-the-badge&abbreviated=true)
-
-<div>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sekwanaa)](https://git.io/streak-stats)
  
 </div>
