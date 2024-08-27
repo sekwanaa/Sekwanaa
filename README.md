@@ -87,10 +87,9 @@ No Activity Tracked This Week
  Last Updated on 27/08/2024 01:12:38 UTC
 <!--END_SECTION:waka-->
 
+<div align=center>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sekwanaa)](https://git.io/streak-stats)
- 
-</div>
  
 </div>
 
