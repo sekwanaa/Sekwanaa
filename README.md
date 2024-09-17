@@ -25,7 +25,7 @@ const sekwanaa = {
 	},
  	askMeAbout: ["app dev", "web dev", "photography", "cars"],
  	funFacts: [
-		🌱 I’m currently learning Java through Year Up,
+		🌱 I’m currently interning at Merck through Year Up,
 		🏂 I love snowboarding,
 		🎸 I love me some guitar,
 		💈  I love being a barber
