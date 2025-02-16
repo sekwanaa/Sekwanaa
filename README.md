@@ -39,6 +39,8 @@ const sekwanaa = {
 
 > 📦 244.1 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -72,17 +74,17 @@ Sunday                   111 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-EizoukenBot-V.2          18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/02/2025 06:22:39 UTC
+ Last Updated on 16/02/2025 12:33:39 UTC
 <!--END_SECTION:waka-->
 
 <div align=center>
