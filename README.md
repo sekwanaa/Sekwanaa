@@ -15,15 +15,16 @@
 ``` javascript
 const sekwanaa = {
 	pronouns: "he" | "him",
-	code: [Java, Javascript, HTML, CSS],
+	code: [Java, Javascript, Python],
 	technologies: {
 		backEnd: {
 		js: ["Node", "Express"],
-		java: ["Spring"]
+		java: ["Spring"],
+		python: ["Flask"]
 		},
 		databases: ["mongoDB", "MySql"]
 	},
- 	askMeAbout: ["app dev", "web dev", "photography", "cars"],
+ 	askMeAbout: ["app dev", "data analytics", "photography", "cars"],
  	funFacts: [
 		🌱 I’m currently interning at Merck through Year Up,
 		🏂 I love snowboarding,
