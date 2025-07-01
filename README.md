@@ -40,16 +40,50 @@ const sekwanaa = {
 
 > 📦 244.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 01/07/2025 06:31:27 UTC
+```text
+🌞 Morning                298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌆 Daytime                1039 commits        ██████████████░░░░░░░░░░░   55.92 % 
+🌃 Evening                426 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+🌙 Night                  95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Tuesday                  377 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Wednesday                340 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Thursday                 392 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Saturday                 152 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Sunday                   117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 01/07/2025 12:41:59 UTC
 <!--END_SECTION:waka-->
 
 <div align=center>
